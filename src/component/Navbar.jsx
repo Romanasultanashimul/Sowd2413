@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/logo.png";
+import logo from '../assets/logo.png';
 import { FaAngleDown } from "react-icons/fa";
 import { CiSearch } from "react-icons/ci";
 import { Link } from "react-router-dom";
